@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# ML model files
+*.joblib
+
+# Dataset
+data_nsl_kdd/
+
+# VS Code
+.vscode/
