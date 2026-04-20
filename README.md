@@ -27,21 +27,7 @@ The system integrates packet capture, feature extraction, machine learning-based
 - High classification accuracy on NSL-KDD dataset
 - ROC-AUC score printed during evaluation
 
-## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-python train.py
-python serve.py
-
-
-📌 This README alone makes your repo **internship-ready**.
-
----
-
-## 3️⃣ Initialize Git in VS Code
-
-Open **Terminal** in VS Code:
 
 ```bash
 git init
